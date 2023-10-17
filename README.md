@@ -8,7 +8,7 @@ paper under review
 
 2. Node Classification (unsupervised downstream)
 
-<img width="472" alt="Screen Shot 2023-10-13 at 7 14 47 PM" src="https://github.com/yoonsikcho/dvgae/assets/76997121/257fba9c-aadf-478a-b9ef-c0b794e589dc">
+<img width="472" alt="Screen Shot 2023-10-13 at 7 14 47 PM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76997121/274872058-257fba9c-aadf-478a-b9ef-c0b794e589dc.png">
 
 3. Clustering
-<img width="483" alt="Screen Shot 2023-10-13 at 7 13 04 PM" src="https://github.com/yoonsikcho/dvgae/assets/76997121/20fd3615-282f-4dee-a6bb-7e6f3dbe4945">
+<img width="483" alt="Screen Shot 2023-10-13 at 7 13 04 PM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76997121/274871638-20fd3615-282f-4dee-a6bb-7e6f3dbe4945.png">

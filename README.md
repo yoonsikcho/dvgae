@@ -4,7 +4,7 @@ paper under review
 
 1. Link Prediction
 
-<img width="759" alt="Screen Shot 2023-10-13 at 7 12 39 PM" src="https://github.com/yoonsikcho/dvgae/assets/76997121/e0206df2-bf60-4112-ad6c-7bc412efe65f">
+<img width="759" alt="Screen Shot 2023-10-13 at 7 12 39 PM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/76997121/274871523-e0206df2-bf60-4112-ad6c-7bc412efe65f.png">
 
 2. Node Classification (unsupervised downstream)
 
